@@ -19,7 +19,7 @@ Proyek ini dirancang untuk memberikan pengalaman pengguna yang interaktif, di ma
 
 ## Struktur File
 ```
-|-- code AKA.ipynb  # Kode utama
+|-- Code AKA.ipynb  # Kode utama
 |-- README.md              # Dokumentasi proyek
 ```
 

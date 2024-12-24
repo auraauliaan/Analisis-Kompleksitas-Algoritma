@@ -18,7 +18,7 @@ Proyek ini menggunakan dataset dummy JNE_dummy_dataset_no_tarif.csv yang terdiri
 
 ### Struktur File
 ```
-|-- Code AKA final.ipynb  # Kode utama
+|-- code_AKA_final.ipynb  # Kode utama
 |-- JNE_dummy_dataset_no_tarif.csv # Dataset Dummy
 |-- README.md              # Dokumentasi proyek
 ```

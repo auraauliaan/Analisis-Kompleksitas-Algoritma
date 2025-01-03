@@ -18,7 +18,7 @@ Proyek ini menggunakan dataset dummy JNE_dummy_dataset_no_tarif.csv yang terdiri
 
 ### Struktur File
 ```
-|-- code_AKA_final.ipynb  # Kode utama
+|-- [code](https://github.com/auraauliaan/Analisis-Kompleksitas-Algoritma/blob/main/code_AKA_final.ipynb)  # Kode utama
 |-- JNE_dummy_dataset_no_tarif.csv # Dataset Dummy
 |-- README.md              # Dokumentasi proyek
 ```

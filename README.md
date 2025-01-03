@@ -22,7 +22,7 @@ Proyek ini menggunakan dataset dummy JNE_dummy_dataset_no_tarif.csv yang terdiri
 |-- JNE_dummy_dataset_no_tarif.csv # Dataset Dummy
 |-- README.md              # Dokumentasi proyek
 ```
-
+[code](https://github.com/auraauliaan/Analisis-Kompleksitas-Algoritma/blob/main/code_AKA_final.ipynb)
 ### Penjelasan Logika Program
 #### Iteratif
 Metode ini menggunakan perulangan untuk menghitung biaya pengiriman untuk setiap entri dalam dataset. Keunggulan metode ini adalah efisiensi penggunaan memori.
